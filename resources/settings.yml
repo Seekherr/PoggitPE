@@ -1,0 +1,12 @@
+#Cooldown for player between running commands
+command-cd: 2
+#Cooldown for entire server when too many requests
+cooldown: 30
+#Cooldown for players when too many requests
+cd: 30
+#I SERIOUSLY recommend this to prevent raids
+onlu-op: false
+#Requests a player can make to poggit every hour
+requests-per-player: 10
+#Max requests player can make before getting perm blacklisted. Only way to remove this is manually or thru your own plugin using method removeFromBlacklist provided in PoggitPE class
+max-requests: 100

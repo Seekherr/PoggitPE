@@ -1,0 +1,5 @@
+name: PoggitPE
+main: seeker\poggitpe\PoggitPE
+version: 1.0.0
+api: 3.19.2
+author: seeker

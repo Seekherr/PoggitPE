@@ -14,7 +14,7 @@ Sure I guess.<br>
 API for developers:<br>
 See examples folder
 ### Screenshots
-![1](https://github.com/Seekherr/PoggitPE/blob/master/screenshots/1.png?raw=true)
-![2](https://github.com/Seekherr/PoggitPE/blob/master/screenshots/2.png?raw=true)
-![3](https://github.com/Seekherr/PoggitPE/blob/master/screenshots/3.png?raw=true)
-![4](https://github.com/Seekherr/PoggitPE/blob/master/screenshots/3.png?raw=true)
+![1](https://github.com/Seekherr/PoggitPE/blob/master/screenshots/1.png
+![2](https://github.com/Seekherr/PoggitPE/blob/master/screenshots/2.png
+![3](https://github.com/Seekherr/PoggitPE/blob/master/screenshots/3.png
+![4](https://github.com/Seekherr/PoggitPE/blob/master/screenshots/3.png

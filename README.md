@@ -10,9 +10,9 @@ I don't know. this was just a 'speedrun' plugin meaning it has unoptimized and b
 **Will this be on Poggit?**<br>
 Unlikely, considering I've heard something like this exists already with more features.<br>
 **Can I PR?**<br>
-SUre I guess.<br>
+Sure I guess.<br>
 API for developers:<br>
-see examples folder
+See examples folder
 ### Screenshots
 ![1](https://github.com/Seekherr/PoggitPE/blob/master/screenshots/1.png?raw=true)
 ![2](https://github.com/Seekherr/PoggitPE/blob/master/screenshots/2.png?raw=true)

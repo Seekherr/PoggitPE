@@ -31,12 +31,12 @@ class RequestsCommand extends PluginCommand
         if(!$sender->isOp()) return;
         if(count($args) > 2){
             $sender->sendMessage(TextFormat::RED . "Too many arguments!");
-            $sender->sendMessage(TextFormat::GREEN . "Commands:\n/poggitrequests list [playerName/server]\n/poggitrequests cooldown <player/server>");
+            $sender->sendMessage(TextFormat::GREEN . "Commands:\n/poggitrequests list [playerName/server]\n/poggitrequests cooldown [player/server]");
             return;
         }
         if(!isset($args[0]) || !isset($args[1])){
             $sender->sendMessage(TextFormat::RED . "Too less arguments!");
-            $sender->sendMessage(TextFormat::GREEN . "Commands:\n/poggitrequests list [playerName/server]\n/poggitrequests cooldown <player/server>");
+            $sender->sendMessage(TextFormat::GREEN . "Commands:\n/poggitrequests list [playerName/server]\n/poggitrequests cooldown [player/server]");
             return;
         }
         switch($args[0]){
